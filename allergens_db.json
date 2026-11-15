@@ -1,0 +1,44 @@
+{
+  "Milk / Dairy": {
+    "icon": "🥛",
+    "keywords": ["milk", "casein", "caseinate", "sodium caseinate", "whey", "lactose", "lactalbumin", "lactoglobulin", "ghee", "butter", "cream", "curds", "milk solids", "paneer", "buttermilk"],
+    "explanation": "Contains dairy proteins (casein or whey) or milk sugar that trigger milk allergies or lactose intolerance.",
+    "alternatives": ["Oatly Barista Oat Milk", "Violife Dairy-Free Cheddar", "Rao's Homemade Marinara (Dairy-Free)"]
+  },
+  "Peanuts": {
+    "icon": "🥜",
+    "keywords": ["peanut", "peanuts", "arachis hypogaea", "groundnut", "monkey nut", "goober", "arachis oil", "mandelonas", "lupin"],
+    "explanation": "Contains peanut proteins or botanical synonyms (Arachis hypogaea) capable of triggering severe anaphylaxis.",
+    "alternatives": ["SunButter Organic Sunflower Spread", "Wowbutter Toasted Soy Spread", "88 Acres Dark Chocolate Seed Bars"]
+  },
+  "Gluten / Wheat": {
+    "icon": "🌾",
+    "keywords": ["wheat", "gluten", "barley", "rye", "malt", "malt extract", "semolina", "spelt", "durum", "triticum", "farina", "seitan", "couscous"],
+    "explanation": "Contains gluten storage proteins harmful to individuals with celiac disease or gluten sensitivity.",
+    "alternatives": ["Barilla Gluten-Free Penne", "Bob's Red Mill 1-to-1 GF Baking Flour", "San-J Tamari Gluten-Free Soy Sauce"]
+  },
+  "Soy": {
+    "icon": "🫘",
+    "keywords": ["soy", "soya", "soybean", "soy lecithin", "soya lecithin", "edamame", "tofu", "tempeh", "miso", "textured vegetable protein", "tvp", "hydrolyzed soy protein"],
+    "explanation": "Contains soy proteins or soy-derived emulsifiers (lecithin) commonly hidden in packaged snacks and chocolates.",
+    "alternatives": ["Enjoy Life Allergen-Friendly Chocolate", "Coconut Secret Coconut Aminos", "SunButter Seed Butter Cups"]
+  },
+  "Tree Nuts": {
+    "icon": "🌰",
+    "keywords": ["almond", "cashew", "walnut", "pecan", "hazelnut", "pistachio", "macadamia", "brazil nut", "prunus dulcis", "marzipan", "praline", "gianduja"],
+    "explanation": "Contains tree nut proteins or botanical names that can cause severe allergic reactions.",
+    "alternatives": ["Enjoy Life Mountain Mambo Seed Mix", "Elmhurst Unsweetened Oat Creamer", "Gerbs Roasted Pumpkin Seed Butter"]
+  },
+  "Eggs": {
+    "icon": "🥚",
+    "keywords": ["egg", "eggs", "albumen", "albumin", "ovalbumin", "ovomucoid", "lysozyme", "mayonnaise", "meringue", "globulin"],
+    "explanation": "Contains egg white or yolk proteins (such as ovalbumin or lysozyme) that trigger egg allergies.",
+    "alternatives": ["Follow Your Heart Vegenaise", "Bob's Red Mill Gluten-Free Egg Replacer", "JUST Egg Plant-Based Scramble"]
+  },
+  "Shellfish": {
+    "icon": "🦐",
+    "keywords": ["shrimp", "prawn", "crab", "lobster", "crayfish", "krill", "clam", "mussel", "oyster", "scallop", "crustacean", "glucosamine"],
+    "explanation": "Contains crustacean or mollusk tropomyosin proteins that trigger shellfish allergies.",
+    "alternatives": ["Ocean's Halo Organic Vegan Fish Sauce", "Gardein Plant-Based Crabless Cakes", "Hearts of Palm Ceviche"]
+  }
+}
