@@ -166,20 +166,3 @@ streamlit run app.py
 > **Important Notice:** NutriScan is strictly an **assistive informational and educational decision-support tool**. Optical character recognition accuracy depends heavily on camera focus, ambient lighting, packaging glare, font styling, and database completeness. **A scan result indicating `"SAFE"` or `"No listed allergen detected"` is never a 100% guarantee of safety.** Individuals with severe food allergies or anaphylaxis risk must always verify physical product packaging directly and consult qualified healthcare professionals.
 
 ---
-
-## 👥 Project Team
-
-* **Avani Chandrakar** (Roll No. 310)
-* **Avani Bhise** (Roll No. 309)
-* **Atharva Sunil Pawar** (Roll No. 306)
-* **Atharva Vijayakumar Bade** (Roll No. 307)
-* **Avaneesh Santosh Raut** (Roll No. 308)
-
----
-
-## 📚 Key References
-
-1. Mokhtari, S., et al. (2026). *Food Allergen Database (FAD): A Comprehensive Resource for Allergen Identification and Cross-Reactivity Analysis.*
-2. Rini, R., et al. (2026). *AI-Based Allergen Detection Using Optical Character Recognition on Packaged Food Labels.*
-3. Sauvola, J., & Pietikäinen, M. (2000). *Adaptive document image binarization.* Pattern Recognition, 33(2), 225–236.
-4. Patel, C., Patel, A., & Patel, D. (2012). *Optical Character Recognition by Open Source OCR Tool Tesseract: A Case Study.* International Journal of Computer Applications, 55(10), 50–56.
